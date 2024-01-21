@@ -1,0 +1,172 @@
+.nav-div{
+  background-color: #fea4bd;
+  
+  width: 18rem;
+  height: 150vh;
+  overflow-y: scroll;
+}
+.staff-header{
+  font-family: serif;
+  font-weight: 900;
+}
+
+.nav-div ul li {
+  list-style: none;
+  display: block;
+  padding-left: 30px;
+line-height:5rem;
+font-weight: 700;
+
+}
+.active{
+  color: white;
+background: black;}
+.nav-div ul{
+  padding: 0;
+  margin: 0;
+}
+.round{
+  border: solid 4px rgb(253, 153, 171);
+  border-radius: 50%;
+  
+  background-color: pink;
+}
+
+.large-round-circle{
+  margin-top: 2rem;
+  width: 80px;
+  padding: 5rem !important;
+}
+.topic{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+}
+.big-card{
+  width:60vw;
+  margin: auto;
+
+}
+.centered{
+  margin: auto;
+  margin-top: 5px;
+}
+.ball-holders{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  
+}
+.round-holder{
+  background-color: pink;
+  width: 40px;
+  height: 40px;
+  border: #fea4bd solid;
+  border-radius: 50%;
+  padding: 30px;
+}
+.dblue{
+
+  width: 40px;
+  height: 40px;
+  
+  border-radius: 50%;
+  padding: 30px;
+  background-color: rgb(122, 222, 247);
+  border: rgb(47, 85, 255) solid;
+}
+.dgreen{
+
+  width: 40px;
+  height: 40px;
+  
+  border-radius: 50%;
+  padding: 30px;
+  background-color: rgb(122, 247, 143);
+  border: rgb(0, 202, 44) solid;
+}
+.dyellow{
+
+  width: 40px;
+  height: 40px;
+  
+  border-radius: 50%;
+  padding: 30px;
+  background-color: rgb(245, 247, 122);
+  border: rgb(255, 252, 47) solid;
+}
+.dred{
+
+  width: 40px;
+  height: 40px;
+  
+  border-radius: 50%;
+  padding: 30px;
+  background-color: rgb(247, 122, 122);
+  border: rgb(255, 47, 92) solid;
+}
+
+.round-holder-blue{
+  background-color: rgb(122, 222, 247);
+  border: rgb(47, 85, 255) solid;
+  width: 40px;
+  height: 40px;
+
+  border-radius: 50%;
+  padding: 30px;
+}
+
+.round-holder-red{
+  background-color:rgb(255, 158, 158);
+  width: 40px;
+  height: 40px;
+  border: red solid;
+  border-radius: 50%;
+  padding: 30px;
+}
+
+.round-holder-yellow{
+  background-color: rgb(255, 255, 157);
+  width: 40px;
+  height: 40px;
+  border: yellow solid;
+  border-radius: 50%;
+  padding: 30px;
+}
+
+.round-holder-green{
+  background-color: rgb(197, 247, 122);
+  border: greenyellow solid;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  padding: 30px;
+}
+
+
+.color-group-holder{
+  margin: 20px;
+}
+.save-color{
+  width: 160px;
+  margin: auto;
+  background-color: black;
+}
+
+.displayname{
+  width: 300px;
+  background-color: rgb(206, 206, 206);
+  border: none;
+  
+}
+
+.btn-d{
+  width:120px
+}
+
+
+.donw{
+  margin-top: 40px !important ;
+}
